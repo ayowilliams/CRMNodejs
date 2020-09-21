@@ -8,6 +8,7 @@
   },
   "author": "Ife Williams",
   "license": "ISC",
+  "repository": {"url": "https://github.com/ayowilliams/CRMNodejs.git"},
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
